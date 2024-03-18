@@ -1,0 +1,11 @@
+C:\Users\משתמש\source\repos\Pokino\Pokino\obj\Debug\netcoreapp3.0\Pokino.csprojAssemblyReference.cache
+C:\Users\משתמש\source\repos\Pokino\Pokino\obj\Debug\netcoreapp3.0\Pokino.AssemblyInfoInputs.cache
+C:\Users\משתמש\source\repos\Pokino\Pokino\obj\Debug\netcoreapp3.0\Pokino.AssemblyInfo.cs
+C:\Users\משתמש\source\repos\Pokino\Pokino\bin\Debug\netcoreapp3.0\Pokino.exe
+C:\Users\משתמש\source\repos\Pokino\Pokino\bin\Debug\netcoreapp3.0\Pokino.deps.json
+C:\Users\משתמש\source\repos\Pokino\Pokino\bin\Debug\netcoreapp3.0\Pokino.runtimeconfig.json
+C:\Users\משתמש\source\repos\Pokino\Pokino\bin\Debug\netcoreapp3.0\Pokino.runtimeconfig.dev.json
+C:\Users\משתמש\source\repos\Pokino\Pokino\bin\Debug\netcoreapp3.0\Pokino.dll
+C:\Users\משתמש\source\repos\Pokino\Pokino\bin\Debug\netcoreapp3.0\Pokino.pdb
+C:\Users\משתמש\source\repos\Pokino\Pokino\obj\Debug\netcoreapp3.0\Pokino.dll
+C:\Users\משתמש\source\repos\Pokino\Pokino\obj\Debug\netcoreapp3.0\Pokino.pdb

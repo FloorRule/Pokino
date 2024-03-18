@@ -1,0 +1,12 @@
+5#GoldSmash-5-dex-100-100
++5#Nothing-0-wis-0-0
++5#Nothing-0-wis-0-0
++6#GoldSmash-5-dex-100-100
++6#GemThrow-10-wis-20-95
++6#Nothing-0-wis-0-0
++7#GoldSmash-5-dex-100-100
++7#GemThrow-10-wis-20-95
++7#KnifeCut-12-dex-40-100
++8#GemThrow-10-wis-20-95
++8#KnifeCut-12-dex-40-100
++8#HoeStrike-15-dex-70-85
